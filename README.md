@@ -100,9 +100,9 @@ Screenshots of both Tableau dashboards can be added to this README when availabl
 
 ### 5. Project Presentation
 
-The PowerPoint presentation summarizes the project objectives, analytical approach, dashboards, KPIs, and findings.
+The PowerPoint presentation summarizes the project objectives, analytical approach, dashboards, key performance indicators (KPIs), and findings.
 
-**Files:** [View Project Presentation](Presentation/)
+**File:** [View Project Presentation](Presentation/Banking_Data_Analysis_Final_Presentation.pptx)
 
 ## Skills Demonstrated
 
