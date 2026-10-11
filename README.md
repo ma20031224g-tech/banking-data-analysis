@@ -76,7 +76,7 @@ The Loan Dashboard presents loan-related KPIs and visualizations. It also includ
 
 The Debit and Credit Dashboard focuses on transaction analysis, including credit amount, debit amount, net transaction amount, credit-to-debit ratio, and other transaction-related KPIs.
 
-**Files:** [View Power BI Dashboards](Power-BI/)
+**Files:** ![Power BI Debit and Credit Dashboard](Screenshots/debit-credit-dashboard.png)
 
 A screenshot of the Debit and Credit Dashboard can be added here when available.
 
