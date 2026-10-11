@@ -88,11 +88,13 @@ This project includes two Tableau dashboards.
 
 The Loan Dashboard presents loan performance and related banking metrics through visualizations designed to support analysis and comparison.
 
+**Files:** ![Tableau Loan Dashboard](Screenshots/tableau-loan-dashboard.png)
+
 #### B. Debit and Credit Dashboard
 
 The Debit and Credit Dashboard presents transaction-related metrics and visualizations for examining debit and credit activity.
 
-**Files:** [View Tableau Dashboards](Tableau/)
+**Files:** ![Tableau Debit and Credit Dashboard](Screenshots/tableau-debit-credit-dashboard.png)
 
 Screenshots of both Tableau dashboards can be added to this README when available.
 
