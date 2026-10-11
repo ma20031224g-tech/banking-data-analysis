@@ -62,13 +62,13 @@ This project includes two Power BI dashboards.
 
 #### A. Loan Dashboard
 
-The Loan Dashboard presents loan-related KPIs and visualizations. It also includes a separate **KPI 6 — State-Wise Loan Distribution** page, accessible through a navigation button.
+The Loan Dashboard presents loan-related KPIs and visualizations. It also includes a separate **State-Wise Loan Distribution** page, accessible through a navigation button.
 
 **Main Loan Dashboard**
 
 ![Power BI Loan Dashboard](Screenshots/loan-dashboard.png)
 
-**State-Wise Loan Distribution — KPI 6**
+**State-Wise Loan Distribution**
 
 ![State-Wise Loan Distribution](Screenshots/state-wise-loan-distribution.png)
 
