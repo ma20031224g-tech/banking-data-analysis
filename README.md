@@ -31,12 +31,12 @@ The project demonstrates practical data analytics skills through data preparatio
 This project includes two Excel dashboards:
 
 * **Loan Dashboard** – Analyzes loan portfolio performance and related KPIs.
+
+![Excel Loan Dashboard](Screenshots/excel-loan-dashboard.png)
+
 * **Debit and Credit Dashboard** – Analyzes banking transactions and debit and credit activity.
 
-**Files:**
-
-* [Loan Dashboard](Excel/LOAN%20final%20dashboard.xlsx)
-* [Debit and Credit Dashboard](Excel/DC%20Final%20Dashboard.xlsx)
+![Excel Debit and Credit Dashboard](Screenshots/excel-debit-credit-dashboard.png)
 
 ### 2. SQL Analysis
 
@@ -76,7 +76,7 @@ The Loan Dashboard presents loan-related KPIs and visualizations. It also includ
 
 The Debit and Credit Dashboard focuses on transaction analysis, including credit amount, debit amount, net transaction amount, credit-to-debit ratio, and other transaction-related KPIs.
 
-**Files:** ![Power BI Debit and Credit Dashboard](Screenshots/debit-credit-dashboard.png)
+![Power BI Debit and Credit Dashboard](Screenshots/debit-credit-dashboard.png)
 
 A screenshot of the Debit and Credit Dashboard can be added here when available.
 
@@ -88,13 +88,13 @@ This project includes two Tableau dashboards.
 
 The Loan Dashboard presents loan performance and related banking metrics through visualizations designed to support analysis and comparison.
 
-**Files:** ![Tableau Loan Dashboard](Screenshots/tableau-loan-dashboard.png)
+![Tableau Loan Dashboard](Screenshots/tableau-loan-dashboard.png)
 
 #### B. Debit and Credit Dashboard
 
 The Debit and Credit Dashboard presents transaction-related metrics and visualizations for examining debit and credit activity.
 
-**Files:** ![Tableau Debit and Credit Dashboard](Screenshots/tableau-debit-credit-dashboard.png)
+![Tableau Debit and Credit Dashboard](Screenshots/tableau-debit-credit-dashboard.png)
 
 Screenshots of both Tableau dashboards can be added to this README when available.
 
