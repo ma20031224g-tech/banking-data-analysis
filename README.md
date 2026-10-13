@@ -44,7 +44,7 @@ MySQL is used for database setup, data preparation, and banking KPI analysis.
 
 **SQL files:**
 
-* [Database and Table Setup](SQL/01_Database_and_Table_Setup.sql)
+* [Database and Table Setup](SQL/01_Database_Table_Setup.sql)
 * [Loan Dashboard KPI Queries](SQL/02_Loan_Dashboard_KPIs.sql)
 * [Debit and Credit Dashboard Queries](SQL/03_Debit_Credit_Dashboard.sql)
 
